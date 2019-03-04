@@ -1,0 +1,15 @@
+{
+  "name": "storyapp",
+  "version": "1.0.0",
+  "description": "app to share public or write private stories",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Eazi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.17"
+  }
+}
